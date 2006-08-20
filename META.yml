@@ -1,0 +1,15 @@
+abstract: String Object
+author: 'Richard Hundt <richard NO SPAM AT protea-systems.com>'
+build_requires:
+  Lingua::EN::Inflect: 0
+distribution_type: module
+generated_by: Module::Install version 0.63
+license: artistic
+name: String-Object
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Lingua::EN::Inflect: 0
+version: 0.01
